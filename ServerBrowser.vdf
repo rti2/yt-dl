@@ -1,0 +1,267 @@
+"Filters"
+{
+	"Favorites"
+	{
+		"1"
+		{
+			"name"		"SarzaminDownload | Public 1"
+			"gamedir"		"cstrike"
+			"Players"		"0"
+			"maxplayers"		"32"
+			"map"		"de_byfly"
+			"address"		"212.80.8.88:27015"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"2"
+		{
+			"name"		"SarzaminDownload | Public 2"
+			"gamedir"		"cstrike"
+			"Players"		"1"
+			"maxplayers"		"32"
+			"map"		"de_nuke"
+			"address"		"212.80.8.88:27016"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"3"
+		{
+			"name"		"SarzaminDownload | Public 3"
+			"gamedir"		"cstrike"
+			"Players"		"0"
+			"maxplayers"		"32"
+			"map"		"sea_dust2_forest"
+			"address"		"212.80.8.88:27017"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"4"
+		{
+			"name"		"SarzaminDownload | Match Top Player"
+			"gamedir"		"cstrike"
+			"Players"		"4"
+			"maxplayers"		"32"
+			"map"		"de_dust2"
+			"address"		"212.80.8.88:27018"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"5"
+		{
+			"name"		"SarzaminDownload | Match Rivalry"
+			"gamedir"		"cstrike"
+			"Players"		"0"
+			"maxplayers"		"32"
+			"map"		"de_dust2"
+			"address"		"212.80.8.88:27019"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"6"
+		{
+			"name"		"SarzaminDownload | GunGame"
+			"gamedir"		"cstrike"
+			"Players"		"0"
+			"maxplayers"		"32"
+			"map"		"gg_russia_snow_remap"
+			"address"		"212.80.8.88:27020"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"7"
+		{
+			"name"		"SarzaminDownload | Aim/AWP"
+			"gamedir"		"cstrike"
+			"Players"		"2"
+			"maxplayers"		"32"
+			"map"		"awp_india"
+			"address"		"212.80.8.88:27021"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"8"
+		{
+			"name"		"SarzaminDownload | JailBreak"
+			"gamedir"		"cstrike"
+			"Players"		"7"
+			"maxplayers"		"32"
+			"map"		"jail_4ever"
+			"address"		"212.80.8.88:27022"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"9"
+		{
+			"name"		"SarzaminDownload | FunnyModes *Deathrun*"
+			"gamedir"		"cstrike"
+			"Players"		"1"
+			"maxplayers"		"32"
+			"map"		"deathrun_snow_wind_remix"
+			"address"		"212.80.8.88:27023"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"10"
+		{
+			"name"		"SarzaminDownload | MultiZombie *Run*"
+			"gamedir"		"cstrike"
+			"Players"		"0"
+			"maxplayers"		"32"
+			"map"		"ze_dust2_fix1"
+			"address"		"212.80.8.88:27024"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"11"
+		{
+			"name"		"SarzaminDownload | Arena *Knife*"
+			"gamedir"		"cstrike"
+			"Players"		"0"
+			"maxplayers"		"32"
+			"map"		"35hp_2"
+			"address"		"212.80.8.88:27026"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"12"
+		{
+			"name"		"SarzaminDownload | AutoMix"
+			"gamedir"		"cstrike"
+			"Players"		"0"
+			"maxplayers"		"18"
+			"map"		"de_dust2"
+			"address"		"212.80.8.88:27027"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"13"
+		{
+			"name"		"SarzaminDownload | DeathMatch"
+			"gamedir"		"cstrike"
+			"Players"		"0"
+			"maxplayers"		"32"
+			"map"		"de_dust2_2x2"
+			"address"		"212.80.8.88:27030"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"14"
+		{
+			"name"		"SarzaminDownload | ClanWars 1"
+			"gamedir"		"cstrike"
+			"Players"		"0"
+			"maxplayers"		"18"
+			"map"		"de_dust2"
+			"address"		"212.80.8.88:27033"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"15"
+		{
+			"name"		"SarzaminDownload | ClanWars 2"
+			"gamedir"		"cstrike"
+			"Players"		"0"
+			"maxplayers"		"18"
+			"map"		"de_dust2"
+			"address"		"212.80.8.88:27032"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"16"
+		{
+			"name"		"SarzaminDownload | ClanWars 3"
+			"gamedir"		"cstrike"
+			"Players"		"0"
+			"maxplayers"		"18"
+			"map"		"de_dust2"
+			"address"		"212.80.8.88:27031"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}
+		"17"
+		{
+			"name"		"SarzaminDownload | Capture"
+			"gamedir"		"cstrike"
+			"Players"		"0"
+			"maxplayers"		"32"
+			"map"		"de_dust2"
+			"address"		"212.80.8.88:27029"
+			"lastplayed"		"0"
+			"secure"		"0"
+			"type"		"1"
+		}		
+	}
+	"FilterList"
+	{
+		"InternetGames"
+		{
+			"ping"		"0"
+			"location"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+			"secure"		"0"
+			"lastquery"		"1709274442"
+		}
+		"SpectateGames"
+		{
+			"ping"		"0"
+			"location"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+			"secure"		"0"
+			"lastquery"		"0"
+		}
+		"FavoriteGames"
+		{
+			"ping"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+			"secure"		"0"
+		}
+		"LanGames"
+		{
+			"ping"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+			"secure"		"0"
+		}
+		"FriendsGames"
+		{
+			"ping"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+			"secure"		"0"
+		}
+		"HistoryGames"
+		{
+			"ping"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+			"secure"		"0"
+		}
+	}
+	"gamelist"		"favorites"
+}
+ 
